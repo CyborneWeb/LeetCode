@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CyborneWeb/LeetCode/tree/master/0014-longest-common-prefix) |
+| [2048-build-array-from-permutation](https://github.com/CyborneWeb/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CyborneWeb/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## String
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CyborneWeb/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/CyborneWeb/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
