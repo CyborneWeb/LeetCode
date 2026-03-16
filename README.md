@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CyborneWeb/LeetCode/tree/master/0014-longest-common-prefix) |
+| [3379-score-of-a-string](https://github.com/CyborneWeb/LeetCode/tree/master/3379-score-of-a-string) |
 ## Trie
 |  |
 | ------- |
