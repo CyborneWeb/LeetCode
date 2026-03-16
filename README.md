@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/CyborneWeb/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CyborneWeb/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Simulation
 |  |
