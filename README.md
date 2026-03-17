@@ -28,6 +28,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 ## Math
 |  |
 | ------- |
+| [2556-convert-the-temperature](https://github.com/CyborneWeb/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/CyborneWeb/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CyborneWeb/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CyborneWeb/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
