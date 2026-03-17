@@ -20,6 +20,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CyborneWeb/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/CyborneWeb/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/CyborneWeb/LeetCode/tree/master/3379-score-of-a-string) |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/CyborneWeb/LeetCode/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Trie
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of personal LeetCode solutions (Some better than others) written in
 |  |
 | ------- |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/CyborneWeb/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [4087-maximum-substrings-with-distinct-start](https://github.com/CyborneWeb/LeetCode/tree/master/4087-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
