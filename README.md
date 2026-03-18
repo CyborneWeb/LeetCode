@@ -9,6 +9,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 | [2048-build-array-from-permutation](https://github.com/CyborneWeb/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/CyborneWeb/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CyborneWeb/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/CyborneWeb/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3194-find-words-containing-character](https://github.com/CyborneWeb/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CyborneWeb/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CyborneWeb/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -42,6 +43,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 | [2048-build-array-from-permutation](https://github.com/CyborneWeb/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/CyborneWeb/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CyborneWeb/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/CyborneWeb/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 ## Two Pointers
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/CyborneWeb/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2481-strictly-palindromic-number](https://github.com/CyborneWeb/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Brainteaser
 |  |
