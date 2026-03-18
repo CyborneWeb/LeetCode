@@ -14,6 +14,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/CyborneWeb/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CyborneWeb/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/CyborneWeb/LeetCode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4058-compute-alternating-sum](https://github.com/CyborneWeb/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## String
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 | [2058-concatenation-of-array](https://github.com/CyborneWeb/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CyborneWeb/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/CyborneWeb/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [4058-compute-alternating-sum](https://github.com/CyborneWeb/LeetCode/tree/master/4058-compute-alternating-sum) |
 ## Greedy
 |  |
 | ------- |
