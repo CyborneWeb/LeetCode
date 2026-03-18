@@ -6,6 +6,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/CyborneWeb/LeetCode/tree/master/0014-longest-common-prefix) |
+| [1635-number-of-good-pairs](https://github.com/CyborneWeb/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/CyborneWeb/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/CyborneWeb/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/CyborneWeb/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -32,6 +33,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 ## Math
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/CyborneWeb/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/CyborneWeb/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2556-convert-the-temperature](https://github.com/CyborneWeb/LeetCode/tree/master/2556-convert-the-temperature) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/CyborneWeb/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -53,6 +55,7 @@ A collection of personal LeetCode solutions (Some better than others) written in
 ## Hash Table
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/CyborneWeb/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/CyborneWeb/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/CyborneWeb/LeetCode/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## Two Pointers
@@ -64,4 +67,8 @@ A collection of personal LeetCode solutions (Some better than others) written in
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/CyborneWeb/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Counting
+|  |
+| ------- |
+| [1635-number-of-good-pairs](https://github.com/CyborneWeb/LeetCode/tree/master/1635-number-of-good-pairs) |
 <!---LeetCode Topics End-->
